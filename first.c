@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("welcome to workshop");
+    printf("welcome to Github workshop");
     return 0;
 }
